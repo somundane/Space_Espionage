@@ -4,4 +4,7 @@ Space Espionage is an interactive story-based game created for the final of a cr
 ## Final Documentation
 [Documentation x Demo](https://danasyching.com/html/spaceespionage.html)
 
+## Final Output
+Hosted on github
+[Space Espionage]([https://danasyching.com/html/spaceespionage.html](https://somundane.github.io/Space_Espionage/))
  
